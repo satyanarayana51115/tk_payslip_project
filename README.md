@@ -23,7 +23,7 @@ A desktop-based GUI application built with Python and Tkinter for generating, ca
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/satyanarayana51115/tk_payslip_project.git](https://github.com/satyanarayana51115/tk_payslip_project.git)
+   git clone https://github.com/satyanarayana51115/tk_payslip_project.git
    cd tk_payslip_project
    ```
 
